@@ -1,0 +1,6 @@
+- arquivo: "arquivo1.txt"
+  usuario: "Joao"
+  tamanho: 20
+- arquivo: "arquivo2.txt"
+  usuario: "Thiago"
+  tamanho: 30
