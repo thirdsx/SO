@@ -1,0 +1,18 @@
+- arquivo: "composicao.txt"
+  usuario: "Joao"
+  tamanho: 3
+- arquivo: "pao_de_mel_lindao.jpg"
+  usuario: "Thiago"
+  tamanho: 32
+- arquivo: "codigo_so.coffee"
+  usuario: "Thiago"
+  tamanho: 8
+- arquivo: "make_massa.mov"
+  usuario: "Isabella"
+  tamanho: 156
+- arquivo: "treino_matador.txt"
+  usuario: "Pedro"
+  tamanho: 5
+
+
+  

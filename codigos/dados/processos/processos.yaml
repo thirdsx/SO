@@ -1,0 +1,19 @@
+- pid: 2
+  name: "vscode"
+  state: "BLOCKED"
+  io_bound: true
+  uid: 1004
+  affinity: 2
+- pid: 13
+  name: "calculadora"
+  state: "RUNNING"
+  io_bound: false
+  uid: 1014
+  affinity: 1
+- pid: 25
+  name: "word"
+  state: "READY"
+  io_bound: true
+  uid: 1027
+  affinity: 0
+
